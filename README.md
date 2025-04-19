@@ -149,6 +149,15 @@ N'hésitez pas à :
 
 ---
 
+## 🚀 Déploiement
+
+L'application est hébergée en ligne sur [Railway](https://railway.app/).
+
+[![Déploiement Railway](https://img.shields.io/badge/Railway-app-green?logo=railway&style=flat-square)](https://analyse-portefeuille.up.railway.app)
+
+👉 Accédez à l'application : [https://analyse-portefeuille.up.railway.app](https://analyse-portefeuille.up.railway.app)
+
+
 ## 👨‍💻 Auteur
 
 Projet développé par **[@tititaya](https://github.com/tititaya)**
