@@ -1,4 +1,6 @@
 ![CI/CD](https://github.com/tititaya/analyse-portefeuille/actions/workflows/main.yml/badge.svg)
+[![Déploiement Railway](https://img.shields.io/badge/Railway-app-green?logo=railway&style=flat-square)](https://analyse-portefeuille.up.railway.app)
+
 
 # 📊 Analyse de portefeuilles boursiers
 
