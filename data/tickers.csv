@@ -1,0 +1,23 @@
+Nom complet,Ticker,Secteur,Pays
+Apple Inc.,AAPL,Tech,US
+Microsoft Corporation,MSFT,Tech,US
+Nvidia Corporation,NVDA,Tech,US
+Meta Platforms,META,Tech,US
+Alphabet Inc.,GOOGL,Tech,US
+Amazon.com Inc.,AMZN,Consommation,US
+PepsiCo,PEP,Consommation,US
+Exxon Mobil,XOM,Énergie,US
+Chevron Corp.,CVX,Énergie,US
+Pfizer,PFE,Santé,US
+Johnson & Johnson,JNJ,Santé,US
+JPMorgan Chase,JPM,Banque,US
+Goldman Sachs,GS,Banque,US
+LVMH,MC.PA,Luxe,FR
+Kering,KER.PA,Luxe,FR
+Hermès,RMS.PA,Luxe,FR
+Sanofi,SAN.PA,Santé,FR
+TotalEnergies,TTE.PA,Énergie,FR
+BNP Paribas,BNP.PA,Banque,FR
+Société Générale,GLE.PA,Banque,FR
+Airbus,AIR.PA,Industrie,FR
+Danone,BN.PA,Consommation,FR

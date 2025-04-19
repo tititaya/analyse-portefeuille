@@ -1,0 +1,11 @@
+{
+    "Tech US": ["AAPL", "MSFT", "GOOGL", "NVDA", "META", "CRM", "ADBE", "INTC", "AMD"],
+    "Énergie US": ["XOM", "CVX", "COP", "SLB", "PSX"],
+    "Santé US": ["JNJ", "PFE", "ABBV", "MRK", "BMY"],
+    "Finance US": ["JPM", "BAC", "GS", "WFC", "MS"],
+    "Consommation US": ["PG", "KO", "PEP", "MCD", "WMT", "AMZN"],
+    "CAC 40 FR": ["AIR.PA", "OR.PA", "SAN.PA", "MC.PA", "BNP.PA", "ENGI.PA", "DG.PA", "VIE.PA"],
+    "Luxe FR": ["MC.PA", "OR.PA", "KER.PA", "RMS.PA"],
+    "Banques FR": ["BNP.PA", "GLE.PA", "ACA.PA"],
+    "Industrie FR": ["AIR.PA", "DG.PA", "ML.PA", "SU.PA"]
+}
