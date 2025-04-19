@@ -1,17 +1,17 @@
-# Étape 1 : image de base
+# Utilise une image légère de Python 3.11
 FROM python:3.11-slim
 
-# Étape 2 : définir le répertoire de travail
+# Définir le répertoire de travail
 WORKDIR /app
 
-# Étape 3 : copier les fichiers nécessaires dans le conteneur
-COPY requirements.txt ./
-RUN pip install --no-cache-dir -r requirements.txt
-
+# Copier les fichiers du projet dans le conteneur
 COPY . .
 
-# Étape 4 : définir le port utilisé par Streamlit
+# Installer les dépendances
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Exposer le port 8501 (important pour Railway)
 EXPOSE 8501
 
-# Étape 5 : lancer l'application Streamlit
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Commande de démarrage Streamlit avec les bonnes options
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
