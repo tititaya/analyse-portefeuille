@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/tititaya/analyse-portefeuille/actions/workflows/main.yml/badge.svg)
+
 # 📊 Analyse de portefeuilles boursiers
 
 Cette application Streamlit interactive permet de :
